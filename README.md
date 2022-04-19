@@ -1,4 +1,4 @@
-# SheepCount
+# SheepCounter
 Imagine a flock of sheep, one by one moving in and out of a fenced grassland. 
 Now the shepherd wants a device attached to the fence door that keeps track of the number of sheep inside the land.
 
@@ -17,7 +17,7 @@ Components Used- arduino uno r3 microcontroller, 2 PIR Sensors, breadboard
 Principle:
 
 
-The PIR sensors helps to detect when the sheep crosses the fence.
+The PIR sensors help to detect when the sheep crosses the fence.
 
 
 
